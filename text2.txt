@@ -10,7 +10,13 @@ dasdas
 dsadsa
 dasdsadsad
 <<<<<<< HEAD
+<<<<<<< HEAD
 dsad
 =======
 dsadasdsadasd
 >>>>>>> br_1 2
+=======
+dsadasdsadasd
+dsadasd
+sad
+>>>>>>> br_1 21
