@@ -9,4 +9,8 @@ dasdasdsa
 dasdas
 dsadsa
 dasdsadsad
+<<<<<<< HEAD
 dsad
+=======
+dsadasdsadasd
+>>>>>>> br_1 2
